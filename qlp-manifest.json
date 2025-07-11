@@ -1,0 +1,31 @@
+{
+  "request": {
+    "id": "cea1a876-8c7d-44e1-981c-2d58e54a99fa",
+    "constraints": null,
+    "description": "A basic calculator with add, subtract, multiply and divide operations",
+    "requirements": "Create a Calculator class with methods for basic arithmetic operations"
+  },
+  "version": "1.0",
+  "contents": {
+    "files": [
+      "src/main.py",
+      "src/__init__.py",
+      "tests/test_main.py",
+      "tests/__init__.py",
+      "requirements.txt",
+      "Dockerfile",
+      ".gitignore",
+      "README.md"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "frameworks": [],
+    "total_size": 4281
+  },
+  "metadata": {
+    "version": "2.0",
+    "generator": "QLP Enhanced Capsule Generator"
+  },
+  "created_at": "2025-07-11T08:57:50.012936"
+}
